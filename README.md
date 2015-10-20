@@ -3,8 +3,8 @@ Romanian localization for o3db-contabi o3db.com
 
 http://o3db.com/app/contabi.html
 usage:
-<enter><enter> to submit password
-<escape><cursor><enter> to select pull down menu
+    enter enter to submit password
+    escape cursor enter to select pull down menu
 
 now look at the source, first the HTML source itself
 
